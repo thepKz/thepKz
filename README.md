@@ -17,7 +17,7 @@ Let’s create something exciting together! 🌟
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thepKz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thepKz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quote
+### ✍️Random Dev Quotee
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
