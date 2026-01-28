@@ -17,8 +17,6 @@ Let’s create something exciting together! 🌟
 ![](https://github-readme-streak-stats.herokuapp.com/?user=thepKz&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=thepKz&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️Random Dev Quotee
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
+![Profile views since 28/01/2026](https://count.getloli.com/@thepKz?theme=booru-lewd)
 ---
 [![](https://visitcount.itsvg.in/api?id=thepKz&icon=0&color=0)](https://visitcount.itsvg.in)
